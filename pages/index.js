@@ -1,6 +1,6 @@
 import { useState } from 'react';
-
-<script data-ad-client="ca-pub-5969535225399413" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<head><script data-ad-client="ca-pub-5969535225399413" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
 
 function Home() {
     return (
