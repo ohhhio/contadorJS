@@ -1,0 +1,25 @@
+{
+  "name": "testeApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muradpontes/testeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muradpontes/testeApp/issues"
+  },
+  "homepage": "https://github.com/muradpontes/testeApp#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
