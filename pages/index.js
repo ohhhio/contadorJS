@@ -7,7 +7,8 @@ function Home() {
         <div>
             <h2>Bem vindo!</h2>
             <Cont />
-            <h2>esse e o meu contador</h2>
+            <h2>esse é um contador feito por Murad</h2>
+            <h4>clique quantas vezes quiser</h4>
         </div>
     )
 }
@@ -27,7 +28,7 @@ function Cont() {
     )
 }
 
-function Pagina() {
+function Page() {
     return <Cont />
 }   
 export default Home
